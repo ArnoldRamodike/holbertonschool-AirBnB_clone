@@ -21,3 +21,4 @@ class Testuser(unittest.TestCase):
         result = pep8style.check_files(['models/user.py'])
         self.assertEqual(result.total_errors, 0,
                          "Found code style errors (and warnings).")
+        
