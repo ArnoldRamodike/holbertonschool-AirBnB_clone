@@ -23,7 +23,7 @@ be able to manage the objects of our project:
 
 - Do operations on objects (count, compute stats, etc…)
 
-- Update attributes of an object
+- Update attributes of an object.
 
 - Destroy an object
 
